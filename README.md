@@ -15,9 +15,12 @@
 <br>
 <br>
 
-## 🛠️ Languages et Outils
+## 🛠️ Skills & tools
+### Front
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
+### Back
 
+### Tools
 
 Here are some ideas to get you started:
 
