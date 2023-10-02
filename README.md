@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-      Hello, I'm Romain !
+      Hello 👋, I'm Romain !
   </h1>
   <span> A french Fullstack Web developer </span>
   <br>
