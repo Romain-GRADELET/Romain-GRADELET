@@ -15,9 +15,9 @@
 <br>
 <br>
 
-#### 📈 Project Management
-![Trello](https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello2.svg)
-![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
+## 🛠️ Languages et Outils
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
+
 
 Here are some ideas to get you started:
 
