@@ -16,18 +16,16 @@
 <br>
 
 ## 🛠️ Skills & tools
-### Front
+#### Front
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>&nbsp;
-### Back
 
-### Tools
+#### Back
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning REACT
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+
+## 👨‍💻 About me :
+
+- 🌱 I’m currently learning REACT to enhance my web development skills
+- 📧 Mail adress : **<romain.gradelet73@outlook.fr>**
+- 🤝 let's connect : &nbsp;&nbsp; <a href="https://www.linkedin.com/in/romain-gradelet"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
