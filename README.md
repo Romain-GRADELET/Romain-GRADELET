@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="[https://i.imgur.com/kyAienM.gif](https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif)" width="900" height="300"/>
+  <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-07.gif" width="900" height="300"/>
 </div>
 
 <br>
