@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-07.gif" width="900" height="300"/>
+  <img src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-07.gif" width="600" height="300"/>
 </div>
 
 <br>
