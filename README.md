@@ -29,7 +29,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp;
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/symfony.png" alt="Symfony" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>&nbsp;
   <a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-sql.png" alt="sql" width="70" height="40"/> </a>&nbsp;
 </div>
 
