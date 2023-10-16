@@ -30,7 +30,7 @@
   <a href="https://symfony.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/symfony.png" alt="Symfony" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-  <a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-sql.png" alt="sql" width="40" height="40"/> </a>&nbsp;
+  <a href="https://sql.sh/" target="_blank" rel="noreferrer"> <img src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-sql.png" alt="sql" width="70" height="40"/> </a>&nbsp;
 </div>
 
 ## 🛠️ Tools
@@ -38,7 +38,7 @@
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://trello.com/fr" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="100" height="40"/> </a>&nbsp;
+  <a href="https://trello.com/fr" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="40" height="40"/> </a>&nbsp;
 
 </div>
 
