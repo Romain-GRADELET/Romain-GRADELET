@@ -46,6 +46,6 @@
 
 ## 👨‍💻 About me :
 
-- 🌱 I’m currently learning REACT to enhance my web development skills
+- 🌱 I’m currently learning C# to enhance my development skills
 - 📧 Mail adress : **<romain.gradelet73@outlook.fr>**
 - 🤝 let's connect : <a href="https://www.linkedin.com/in/romain-gradelet" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
